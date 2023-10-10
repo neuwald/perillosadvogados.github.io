@@ -1,0 +1,9 @@
+#conteiner{
+    width:780px; margin:0 auto; padding:0 100px;
+}
+#rodape{
+    background-image: url("/images/rodape_fundo.jpg");
+    background-repeat: repeat-x;
+    height: 171px;
+
+}
